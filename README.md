@@ -16,5 +16,4 @@ The writeups are organized by category:
 * **/Forensics** - Metadata analysis and file carving.
 * **/Reverse-Engineering** - Binary analysis and decompilation.
 
-## 🚀 Featured Writeups
-*(Link your best or most complex writeups here once you finish them!)*
+
