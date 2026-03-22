@@ -11,9 +11,9 @@ I utilize a variety of industry-standard tools to analyze and exploit these chal
 
 ## 📂 Repository Structure
 The writeups are organized by category:
-* **/Cryptography** - RSA, AES, and Number Theory challenges.
-* **/Web-Exploitation** - SQLi, XSS, and Logic Flaws.
-* **/Forensics** - Metadata analysis and file carving.
-* **/Reverse-Engineering** - Binary analysis and decompilation.
+* **Cryptography** - RSA, AES, and Number Theory challenges.
+* **Web-Exploitation** - SQLi, XSS, and Logic Flaws.
+* **Forensics** - Metadata analysis and file carving.
+
 
 
